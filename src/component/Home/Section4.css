@@ -1,0 +1,37 @@
+.paralex{
+    background-image: url('./../../img/section4.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    padding: 60px 0;
+    max-width: 100%;
+}
+.paralex h2 {
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: #a82d49;
+}
+.paralex p{
+        text-align: center;
+        width: 60%;
+        margin: auto;
+}
+.paralex h6{
+    text-align: center;
+    margin: auto;
+    cursor: pointer;
+    margin-top: 50px;
+    position: relative;
+}
+.paralex h6:hover{
+    color: #a82d49;
+    transition: .5s;
+}
+.paralex .icon{
+    position: absolute;
+
+}

@@ -1,0 +1,61 @@
+.ingredients{
+    padding: 60px 0;
+}
+
+.ingredients h2{
+    width: 80%;
+    font-size: 30px;
+}
+.ingredients p {
+    margin: 20px 0;
+    width: 80%;
+    color: #a82d49;
+
+}
+
+.ingredients ul {
+    position: relative;
+    list-style: none;
+    color: #a82d49;
+}
+.ingredients ul li {
+    margin-bottom: 5px;
+}
+
+   
+.ingredients .icon1 ,.ingredients .icon2 , .ingredients .icon3{
+    color: #a82d49;
+    left: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.ingredients .icon1 {
+    position: absolute;
+    top: 5px;
+}
+.ingredients .icon2{
+    position: absolute;
+    top: 65px;
+
+}
+.ingredients .icon3{
+    position: absolute;
+    top: 33px;
+}
+.ingredients button {
+    background-color: #a82d49;
+    padding: 13px 27px;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+}
+.ingredients button:hover{
+    background-color: transparent;
+    color: #a82d49;
+    border: 1px solid #a82d49;
+    transition: .3s;
+}
+.ingredients img {
+    max-width: 100%;
+}

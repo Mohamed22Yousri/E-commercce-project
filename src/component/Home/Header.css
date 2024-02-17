@@ -1,0 +1,57 @@
+header{
+    background-image: url('./../../img/Header.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%; 
+    height: 500px;
+    text-align: left;
+    margin-top: 0;
+
+}
+header .row {
+    margin: 60px 0;
+}
+header h2 {
+        font-weight: bold;
+        color: #640202;
+        width: 80%;
+        
+}
+header p {
+    color: #333;
+    margin: 15px 0;
+}
+header button{
+    margin: 20px 10px 20px 0 ;
+    background-color: #ac2947;
+    color: #fff;
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+    border: 1px solid transparent;
+    border-radius: 6px;
+}
+header button:last-of-type{
+    color: #000;
+    background-color: #fff;
+    border: 1px solid #f1bcbc;
+
+}
+header button:hover{
+    transition: .2s;
+}
+header button:first-of-type:hover{
+    background-color: #fff;
+    color: #ac2947;
+    border: 3px solid #ac2947;
+
+}
+
+header button:last-of-type:hover{
+    border: 3px solid #ac2947;
+    color: #ac2947;
+
+
+}

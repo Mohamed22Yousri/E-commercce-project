@@ -1,0 +1,36 @@
+.pride{
+    overflow: hidden;
+    max-width: 100%;
+    height: auto;
+    padding: 25px 0;
+    margin-top: 60px;
+
+}
+.pride img {
+    max-width: 100%;
+}
+.pride h2 {
+    font-weight: bold;
+    margin-top: 20px;
+    width: 80%;
+
+}
+.pride p{
+    margin: 20px 0;
+    width: 80%;
+}
+.pride button{
+    background-color: #a82d49;
+    padding: 13px 27px;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+}
+.pride button:hover{
+    background-color: transparent;
+    color: #a82d49;
+    border: 1px solid #a82d49;
+    transition: .3s;
+
+}

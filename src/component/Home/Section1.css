@@ -1,0 +1,14 @@
+.numbers{
+    background-color: #a82d49;
+    padding: 25px 0;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+}
+.numbers h2 {
+        font-size: 40px;
+        margin: 10px 0;
+}
+.numbers h6 {
+    letter-spacing: 4px;
+}
